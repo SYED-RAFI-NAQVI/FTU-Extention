@@ -1,0 +1,18 @@
+browser.contextMenus.create({
+    id: "ftu",
+    title: "Search on FTU",
+    contexts: ["selection"]
+})
+
+browser.contextMenus.onClicked.addListener(contextMenuAction);
+
+function contextMenuAction(info, tab){
+    const url = "https://www.freetutorials.eu/?s=" + info.selectionText + "&asl_active=1&p_asid=1&p_asl_data=cXRyYW5zbGF0ZV9sYW5nPTAmcG9seWxhbmdfbGFuZz1lbiZzZXRfaW50aXRsZT1Ob25lJnNldF9pbnBvc3RzPU5vbmUmc2V0X2lucGFnZXM9Tm9uZSZjYXRlZ29yeXNldCU1QiU1RD0xMzQmY2F0ZWdvcnlzZXQlNUIlNUQ9NCZjYXRlZ29yeXNldCU1QiU1RD03JmNhdGVnb3J5c2V0JTVCJTVEPTMmY2F0ZWdvcnlzZXQlNUIlNUQ9MTEmY2F0ZWdvcnlzZXQlNUIlNUQ9NSZjYXRlZ29yeXNldCU1QiU1RD03NjcmY2F0ZWdvcnlzZXQlNUIlNUQ9ODgyJmNhdGVnb3J5c2V0JTVCJTVEPTgmY2F0ZWdvcnlzZXQlNUIlNUQ9MTAmY2F0ZWdvcnlzZXQlNUIlNUQ9OSZjYXRlZ29yeXNldCU1QiU1RD02JmNhdGVnb3J5c2V0JTVCJTVEPTE4MCZjYXRlZ29yeXNldCU1QiU1RD0yMjAzJmNhdGVnb3J5c2V0JTVCJTVEPTIzOTQ="
+    const url1 = "https://www.freecoursesonline.me/?s=" + info.selectionText +"&asl_active=1&p_asid=2&p_asl_data=cXRyYW5zbGF0ZV9sYW5nPTAmcG9seWxhbmdfbGFuZz1lbiZzZXRfaW50aXRsZT1Ob25lJnNldF9pbnBvc3RzPU5vbmUmc2V0X2lucGFnZXM9Tm9uZSZjYXRlZ29yeXNldCU1QiU1RD0xMzkmY2F0ZWdvcnlzZXQlNUIlNUQ9MzMmY2F0ZWdvcnlzZXQlNUIlNUQ9OTAzJmNhdGVnb3J5c2V0JTVCJTVEPTI3JmNhdGVnb3J5c2V0JTVCJTVEPTEyOSZjYXRlZ29yeXNldCU1QiU1RD01JmNhdGVnb3J5c2V0JTVCJTVEPTY1OSZjYXRlZ29yeXNldCU1QiU1RD00MjYmY2F0ZWdvcnlzZXQlNUIlNUQ9MjYmY2F0ZWdvcnlzZXQlNUIlNUQ9MTg4JmNhdGVnb3J5c2V0JTVCJTVEPTgwJmNhdGVnb3J5c2V0JTVCJTVEPTE4NyZjYXRlZ29yeXNldCU1QiU1RD0xMjYmY2F0ZWdvcnlzZXQlNUIlNUQ9OTImY2F0ZWdvcnlzZXQlNUIlNUQ9NTQ1JmNhdGVnb3J5c2V0JTVCJTVEPTYwNyZjYXRlZ29yeXNldCU1QiU1RD0xODQmY2F0ZWdvcnlzZXQlNUIlNUQ9NyZjYXRlZ29yeXNldCU1QiU1RD02JmNhdGVnb3J5c2V0JTVCJTVEPTE5MCZjYXRlZ29yeXNldCU1QiU1RD04MiZjYXRlZ29yeXNldCU1QiU1RD02ODcmY2F0ZWdvcnlzZXQlNUIlNUQ9NjYzJmNhdGVnb3J5c2V0JTVCJTVEPTEzMyZjYXRlZ29yeXNldCU1QiU1RD02MDUmY2F0ZWdvcnlzZXQlNUIlNUQ9OTA="
+    browser.tabs.create({
+    	url : url,
+    });
+    browser.tabs.create({
+    	url : url1,
+    });
+}
