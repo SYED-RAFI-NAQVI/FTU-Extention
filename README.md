@@ -5,4 +5,4 @@ step 1 :
 Open all time favourite...., mozilla firefox browser 
 
 
-![Original Image](./images/1.jpg)
+![1](./images/1.jpg)
