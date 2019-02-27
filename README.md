@@ -35,7 +35,7 @@ Search for any course to learn.
 
 # step 6 :
 
-Select the title of the course and right click (😲) you will get an option "Search on FTU".
+Select the title of the course and right click,(😲) you will get an option "Search on FTU" click on it.
 
 ![6](./images/6.png)
 
