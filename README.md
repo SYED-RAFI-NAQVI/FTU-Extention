@@ -21,4 +21,16 @@ Press "Load Temporary Add-on" to open files, select ftu.js from downloded files.
 
 ![3](./images/3.png)
 
+# step 4 :
+
+Open any site like udemy, coursera, edx....Here I am opening udemy (fav😍).
+
+![4](./images/4.png)
+
+# step 5 :
+
+Search for any course to learn.
+
+![5](./images/5.png)
+
 
