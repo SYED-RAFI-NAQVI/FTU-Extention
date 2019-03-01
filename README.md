@@ -9,7 +9,7 @@ Open all time favourite...., mozilla firefox browser.
 
 ![1](./images/1.png)
 
-# step 2 :
+# Step 2 :
 
 Search "about:debugging" in the url which leads to access the local Extentions.
 
