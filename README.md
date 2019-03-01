@@ -39,7 +39,7 @@ Select the title of the course and right click,(😲) you will get an option "Se
 
 ![6](./images/6.png)
 
-# step 7 :
+# Step 7 :
 
 BOOM 💥💥  you will redirect to FTU (Region of Dimonds), you can download desired course..!😃
 
