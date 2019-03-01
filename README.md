@@ -27,13 +27,13 @@ Open any site like udemy, coursera, edx....Here I am opening udemy (fav😍).
 
 ![4](./images/4.png)
 
-# step 5 :
+# Step 5 :
 
 Search for any course to learn.
 
 ![5](./images/5.png)
 
-# step 6 :
+# Step 6 :
 
 Select the title of the course and right click,(😲) you will get an option "Search on FTU" click on it.
 
