@@ -15,13 +15,13 @@ Search "about:debugging" in the url which leads to access the local Extentions.
 
 ![2](./images/2.png)
 
-# step 3 :
+# Step 3 :
 
 Press "Load Temporary Add-on" to open files, select ftu.js from downloded files.
 
 ![3](./images/3.png)
 
-# step 4 :
+# Step 4 :
 
 Open any site like udemy, coursera, edx....Here I am opening udemy (fav😍).
 
