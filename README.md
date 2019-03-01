@@ -2,7 +2,7 @@
 
 This extention helps to search courses directly in website FTU...!
 
-# step 1 :
+# Step 1 :
 
 Open all time favourite...., mozilla firefox browser.
 
