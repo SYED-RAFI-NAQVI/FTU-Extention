@@ -1,6 +1,6 @@
 # FTU-Extention
 
-This extention helps to search courses directly in website FTU...!
+This extention helps to search courses directly in website FTU....!
 
 # Step 1 :
 
